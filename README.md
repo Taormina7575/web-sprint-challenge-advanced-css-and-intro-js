@@ -29,7 +29,7 @@ Please answer the following questions below, you may edit the readme file to inc
 3. How would you explain the concept of a variable to someone new to programming?
     A variable is essentially a container which can hold a variety of data types including strings, boolean values, numbers, etc.
 4. What is the purpose of using functions in code?
-    A function holds a block of code which can be invoked at another point in your program
+    A function holds a block of code which can be invoked at another point in your program.
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
